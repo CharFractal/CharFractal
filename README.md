@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ravikul505
 - 👀 I’m interested in ...game development
-- 🌱 I’m currently learning ...blender
-- 💞️ I’m looking to collaborate on ...games dev projects
+- 🌱 I’m currently learning ...Complexity Scinece
+- 💞️ I’m looking to collaborate on ...games dev projects , particularly game ai and procedural generation
 - 📫 How to reach me ...email == "solarsquirrel95x@gmail.com"
 -  
 
