@@ -3,13 +3,15 @@
 
 - 📝 I regularly post 3D models on [https://www.deviantart.com/gon5araseon](https://www.deviantart.com/gon5araseon)
 
-- 🌱 I’m currently learning Quantum Computing
+- 🌱 I’m currently learning COmplexity Sceiences
 
 - 📫 How to reach me **shatterstar999@gmail.com**
 
+- 💬 Ask me about Python, Unity, Game Development, Complexity Science, Neural Networks
+
 - ⚡ Fun fact I can speak Japanese because I watch a lot of anime
 
-- 💬 Ask me about Python, Unity, Game Development, Complexity Science, Neural Networks
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,13 +32,16 @@
   </a>
 </p>
 
-<div align="center">
+
+
+# 📊 GitHub Stats:
+<div >
   <p style="display: inline-block; margin: 0 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikul505&show_icons=true&locale=en&theme=algolia" alt="ravikul505" /></p>
   <p style="display: inline-block; margin: 0 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikul505&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ravikul505" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikul505&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ravikul505" /></p>
 </div> 
 
-<!---
-ravikul505/ravikul505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
