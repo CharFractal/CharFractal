@@ -30,7 +30,12 @@
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikul505&show_icons=true&locale=en&theme=radical" alt="ravikul505" /></p>
+<div align="center">
+  <p style="display: inline-block; margin: 0 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikul505&show_icons=true&locale=en&theme=algolia" alt="ravikul505" /></p>
+  <p style="display: inline-block; margin: 0 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikul505&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ravikul505" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikul505&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ravikul505" /></p>
+</div> 
+
 <!---
 ravikul505/ravikul505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
