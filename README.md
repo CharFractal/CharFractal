@@ -18,9 +18,13 @@
   <a href="https://twitter.com/charfractal" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charfractal" height="30" width="40" />
   </a>
+    <a href="https://medium.com/@shatterstar999/about" target="_blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/medium-4.svg" alt="kill engine" height="30" width="40" />
+  </a>
   <a href="https://discord.gg/superkritical#2306" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="superkritical#2306" height="30" width="40" />
   </a>
+
 </p>
 
 
