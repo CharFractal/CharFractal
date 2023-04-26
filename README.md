@@ -34,7 +34,7 @@
 
 
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 <div >
   <p style="display: inline-block; margin: 0 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikul505&show_icons=true&locale=en&theme=algolia" alt="ravikul505" /></p>
   <p style="display: inline-block; margin: 0 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikul505&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ravikul505" /></p>
