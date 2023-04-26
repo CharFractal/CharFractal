@@ -1,9 +1,33 @@
-- 👋 Hi, I’m @ravikul505
-- 👀 I’m interested in ...game development
-- 🌱 I’m currently learning ...Complexity Scinece
-- 💞️ I’m looking to collaborate on ...games dev projects , particularly game ai and procedural generation
-- 📫 How to reach me ...email == "solarsquirrel95x@gmail.com"
--  
+<h1 align="center">Hi 👋, I'm Ravikul Rao</h1>
+<h3 align="center">A passionate Game Developer and Complexity Science enthusiast</h3>
+
+- 📝 I regularly post 3D models on [https://www.deviantart.com/gon5araseon](https://www.deviantart.com/gon5araseon)
+
+- 🌱 I’m currently learning Graphics Visualization
+
+- 📫 How to reach me **shatterstar999@gmail.com**
+
+- ⚡ Fun fact: Did you know that the word anime is actually an abbreviation of the English word "animation"? Did you know that the creator of the anime "One Piece" once submitted a pirate-themed manga for a school project, but received a C- for his efforts?
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/charfractal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charfractal" height="30" width="40" /></a>
+<a href="https://discord.gg/superkritical#2306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="superkritical#2306" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+</p>
+
 
 <!---
 ravikul505/ravikul505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
