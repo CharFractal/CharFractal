@@ -3,11 +3,13 @@
 
 - 📝 I regularly post 3D models on [https://www.deviantart.com/gon5araseon](https://www.deviantart.com/gon5araseon)
 
-- 🌱 I’m currently learning Graphics Visualization
+- 🌱 I’m currently learning Quantum Computing
 
 - 📫 How to reach me **shatterstar999@gmail.com**
 
-- ⚡ Fun fact: Did you know that the word anime is actually an abbreviation of the English word "animation"? Did you know that the creator of the anime "One Piece" once submitted a pirate-themed manga for a school project, but received a C- for his efforts?
+- ⚡ Fun fact I can speak Japanese because I watch a lot of anime
+
+- 💬 Ask me about Python, Unity, Game Development, Complexity Science, Neural Networks
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
