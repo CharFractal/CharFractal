@@ -3,7 +3,7 @@
 
 - 📝 I regularly post 3D models on [https://www.deviantart.com/gon5araseon](https://www.deviantart.com/gon5araseon)
 
-- 🌱 I’m currently learning COmplexity Sceiences
+- 🌱 I’m currently learning Complexity Sceiences
 
 - 📫 How to reach me **shatterstar999@gmail.com**
 
