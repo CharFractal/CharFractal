@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ravikul Rao</h1>
 <h3 align="center">A passionate Game Developer and Complexity Science enthusiast</h3>
 
-- 📝 I regularly post 3D models on [https://www.deviantart.com/gon5araseon](https://www.deviantart.com/gon5araseon)
+- 📝 I regularly post 3D models on [https://www.deviantart.com/gon5araseon](https://www.deviantart.com/gon5araseon).
 
-- 🌱 I’m currently learning Complexity Sceiences
+- 🌱 I’m currently learning Complexity Sceiences.
 
 - 📫 How to reach me **shatterstar999@gmail.com**
 
-- 💬 Ask me about Python, Unity, Game Development, Complexity Science, Neural Networks
+- 💬 Ask me about Game Development, Complexity Science, Neural Networks.
 
-- ⚡ Fun fact I can speak Japanese because I watch a lot of anime
+- ⚡ Fun fact I can speak Japanese because I watch a lot of anime.
 
 
 
