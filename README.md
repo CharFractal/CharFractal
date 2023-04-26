@@ -21,9 +21,6 @@
   <a href="https://discord.gg/superkritical#2306" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="superkritical#2306" height="30" width="40" />
   </a>
-  <a href="mailto:shatterstar999@gmail.com">
-    <img align="center" src="https://gist.github.com/1f578d63a7c802940d54be11034e3ada.git" alt="shatterstar999@gmail.com" height="30" width="40" />
-  </a>
 </p>
 
 
