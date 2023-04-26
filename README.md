@@ -26,14 +26,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height="40"/>
+  </a>
   <a href="https://unity.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="unity" width="40" height="40"/>
   </a>
     <a href="https://docs.blender.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="Blender" width="40" height="40"/>
-  </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
@@ -41,13 +41,12 @@
     <a href="https://www.tensorflow.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
-  </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/>
   </a>
-
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
+  </a>
 </p>
 
 
