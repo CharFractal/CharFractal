@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ravikul Rao</h1>
-<h3 align="center">A passionate Game Developer and Complexity Science enthusiast</h3>
+<h3 align="center">A passionate Game Developer </h3>
 
 - 📝 I regularly post 3D models on [https://www.deviantart.com/gon5araseon](https://www.deviantart.com/gon5araseon).
 
-- 🌱 I’m currently learning Complexity Sciences.
+- 🌱 I’m currently playing life at hurt me plenty.
 
 - 📫 How to reach me **shatterstar999@gmail.com**
 
-- 💬 Ask me about Game Development, Complexity Science, Neural Networks.
+- 💬 I know about game dev , graphics and OS.
 
-- ⚡ Fun fact I can speak Japanese because I watch a lot of anime.
+- ⚡ I want to make my own anime and game base on the story i have written since i was a kid , thats why i do game dev + maths is fun .
 
 
 
@@ -38,18 +38,6 @@
   </a>
     <a href="https://docs.blender.org/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" alt="Blender" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-  </a>
-    <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
 
