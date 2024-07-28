@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravikul Rao</h1>
 <h3 align="center">A passionate Game Developer </h3>
 
-- 📝 I regularly post 3D models on [https://www.deviantart.com/gon5araseon](https://www.deviantart.com/gon5araseon).
+- 📝 I !(regularly) post 3D models on [https://www.deviantart.com/gon5araseon](https://www.deviantart.com/gon5araseon).
 
 - 🌱 I’m currently playing life at hurt me plenty.
 
