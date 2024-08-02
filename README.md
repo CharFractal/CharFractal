@@ -1,31 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ravikul Rao</h1>
 <h3 align="center">A passionate Game Developer </h3>
 
-- 📝 I !(regularly) post 3D models on [https://www.deviantart.com/gon5araseon](https://www.deviantart.com/gon5araseon).
-
-- 🌱 I’m currently playing life at hurt me plenty.
-
-- 📫 How to reach me **shatterstar999@gmail.com**
-
 - 💬 I know about game dev , graphics and OS.
 
-- ⚡ I want to make my own anime and game base on the story i have written since i was a kid , thats why i do game dev + maths is fun .
+- ⚡  I do game dev beacuse i want  to make my own anime and game base on the story i have written since i was a kid.
 
+- 📝 I !(regularly) post 3D models on [https://www.deviantart.com/gon5araseon](https://www.deviantart.com/gon5araseon).
 
+- 🌱 I Love Souls Like Games and entireity of 90's culture and most of my Game design is focused around that.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/charfractal" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="charfractal" height="30" width="40" />
-  </a>
-    <a href="https://medium.com/@shatterstar999/about" target="_blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/medium-4.svg" alt="kill engine" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/AD5TznsMPk" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="superkritical#2306" height="30" width="40" />
-  </a>
+- 📫 How to reach me **raoravikul57@gmail.com**
 
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,13 +27,9 @@
 </p>
 
 
-
-
 #  GitHub Stats:
 <div >
-  <p style="display: inline-block; margin: 0 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikul505&show_icons=true&locale=en&theme=algolia" alt="ravikul505" /></p>
-  <p style="display: inline-block; margin: 0 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikul505&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ravikul505" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikul505&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ravikul505" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikul505&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ravikul505" /></p>
 </div> 
 
 ---
