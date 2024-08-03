@@ -3,7 +3,7 @@
 
 - 💬 I know about game dev , graphics and OS.
 
-- ⚡  I do game dev beacuse i want  to make my own anime and game base on the story i have written since i was a kid.
+- ⚡  I do game dev beacuse i want  to make my own anime and game based on the story i have written since i was a kid.
 
 - 📝 I !(regularly) post 3D models on [https://www.deviantart.com/gon5araseon](https://www.deviantart.com/gon5araseon).
 
