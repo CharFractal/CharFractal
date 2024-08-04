@@ -30,6 +30,6 @@
 
 <h1 align="center">GitHub Stats:</h1>
 <div >
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikul505&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ravikul505" /></p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CharFractal&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ravikul505" /></p>
 </div> 
 
