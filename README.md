@@ -3,7 +3,7 @@
 
 - 💬 I know about Game Development, Computer Graphics and Operating Systems.
   
-- 📝 I !(regularly) post most of artwork at [https://x.com/CharFractal](https://x.com/CharFractal).
+- 📝 I !(regularly) post most of my artwork at [https://x.com/CharFractal](https://x.com/CharFractal).
   
 - 🌱 My Game Design is focused around Souls Like Games, Horror Space Genre and 90's culture.
   
