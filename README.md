@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ravikul Rao</h1>
-<h3 align="center">A passionate Game Developer </h3>
+<h3 align="center">A passionate Game Developer</h3>
 
-- 💬 I know about game dev , graphics and OS.
+- 💬 I know about Game Development, Computer Graphics and Operating Systems.
+  
+- 📝 I !(regularly) post most of my stuf at [https://x.com/CharFractal](https://x.com/CharFractal).
+  
+- 🌱 My Game Design is focused around Souls Like Games, Horror Space Genre and 90's culture.
+  
+- ⚡  I am a Game developer beacuse i want to make my own Game and Anime based on the Story i have been writting since Childhood.
 
-- ⚡  I do game dev beacuse i want  to make my own anime and game based on the story i have written since i was a kid.
-
-- 📝 I !(regularly) post 3D models on [https://www.deviantart.com/gon5araseon](https://www.deviantart.com/gon5araseon).
-
-- 🌱 I Love Souls Like Games and entireity of 90's culture and most of my Game design is focused around that.
-
-- 📫 How to reach me **raoravikul57@gmail.com**
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c#" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c#" width="40" height="40"/>
+  </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height="40"/>
   </a>
@@ -26,13 +28,8 @@
   </a>
 </p>
 
-
-#  GitHub Stats:
+<h1 align="center">GitHub Stats:</h1>
 <div >
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikul505&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ravikul505" /></p>
 </div> 
 
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
