@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravikul Rao</h1>
-<h3 align="center">A passionate Game Developer</h3>
+<h3 align="center">An Aspiring Game Developer</h3>
 
 - 💬 I know about Game Development, Computer Graphics and Operating Systems.
   
@@ -7,7 +7,7 @@
   
 - 🌱 My Game Design is focused around Souls Like Games, Horror Space Genre and 90's culture.
   
-- ⚡  I am a Game developer beacuse i want to make my own Game and Anime based on the Story i have been writting since Childhood.
+- ⚡  I want to be a Game developer beacuse i want to make my own Game and Anime based on the Story i have been writting since Childhood.
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
