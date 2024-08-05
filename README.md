@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ravikul Rao</h1>
 <h3 align="center">An Aspiring Game Developer</h3>
 
-- 💬 I know about Game Development, Computer Graphics and Operating Systems.
+- 🕯️ I know about Game Development, Computer Graphics and Operating Systems.
   
-- 📝 I !(regularly) post most of my artwork at [https://x.com/CharFractal](https://x.com/CharFractal).
+- 🖼️ I !(regularly) post my artwork at [https://x.com/CharFractal](https://x.com/CharFractal).
   
-- 🌱 My Game Design is focused around Souls Like Games, Horror Space Genre and 90's culture.
+- 🗡️ My game design expertise centers on crafting dark fantasy experiences with intense action and mild gore.💀 I also explore horror-themed space settings and incorporate elements of 90s culture.
   
-- ⚡  I want to be a Game developer beacuse i want to make my own Game and Anime based on the Story i have been writting since Childhood.
+- 🌟 I aspire to be a game developer because I am passionate about bringing to life a game based on a story I have been crafting since childhood.
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
