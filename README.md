@@ -7,7 +7,7 @@
   
 - 🗡️ My game design expertise centers on crafting dark fantasy experiences with intense action and mild gore.💀 I also explore horror-themed space settings and incorporate elements of 90s culture.
   
-- 🌟 I aspire to be a game developer because I am passionate about bringing to life a game based on a story I have been crafting since childhood.
+- 🌟 I aspire to be a game developer because I want to make a game based on the story I have been crafting since childhood.
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
